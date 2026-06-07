@@ -45,9 +45,7 @@ $$\frac{1}{s_j^2} = \gamma \cdot \frac{\frac{1}{p}\sum_{h=1}^{p}\left[\sum_{i=1}
 
 **Etapa 3 — Alocação (Eq. 18):**
 
-\[
-P_i = \left\{e_k \in E \mathrel{:} 2(1 - K^{(s)}(x_k, g_i)) = \min_{h=1}^{c} 2(1 - K^{(s)}(x_k, g_h))\right\}
-\\]
+$$P_i = \left\{e_k \in E \mathrel{:} 2(1 - K^{(s)}(x_k, g_i)) = \min_{h=1}^{c} 2(1 - K^{(s)}(x_k, g_h))\right\}$$
 
 
 O **kernel Gaussiano com vetor global de hiper-parâmetros** (Eq. 9) é:
