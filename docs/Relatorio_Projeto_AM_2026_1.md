@@ -45,7 +45,10 @@ $$\frac{1}{s_j^2} = \gamma \cdot \frac{\frac{1}{p}\sum_{h=1}^{p}\left[\sum_{i=1}
 
 **Etapa 3 — Alocação (Eq. 18):**
 
-$$P_i = \left\{e_k \in E : 2(1 - K^{(s)}(x_k, g_i)) = \min_{h=1}^{c} 2(1 - K^{(s)}(x_k, g_h))\right\}$$
+\[
+P_i = \left\{e_k \in E \mathrel{:} 2(1 - K^{(s)}(x_k, g_i)) = \min_{h=1}^{c} 2(1 - K^{(s)}(x_k, g_h))\right\}
+\\]
+
 
 O **kernel Gaussiano com vetor global de hiper-parâmetros** (Eq. 9) é:
 
@@ -334,14 +337,4 @@ Os principais achados são:
 
 1. Carvalho, F. A. T., Simões, E. C., Santana, L. V. C., & Ferreira, M. R. P. (2018). *Gaussian kernel c-means hard clustering algorithms with automated computation of the width hyper-parameters*. **Pattern Recognition**, 79, 370–386. https://doi.org/10.1016/j.patcog.2018.02.018
 
-2. Sigillito, V. G., Wing, S. P., Hutton, L. V., & Baker, K. B. (1989). *Classification of radar returns from the ionosphere using neural networks*. Johns Hopkins APL Technical Digest, 10(3), 262–266.
-
-3. UCI Machine Learning Repository — Ionosphere Dataset. https://archive.ics.uci.edu/dataset/52/ionosphere
-
-4. Hubert, L., & Arabie, P. (1985). *Comparing partitions*. Journal of Classification, 2, 193–218.
-
-5. Rousseeuw, P. J. (1987). *Silhouettes: a graphical aid to the interpretation and validation of cluster analysis*. Journal of Computational and Applied Mathematics, 20, 53–65.
-
-6. Friedman, M. (1940). *A comparison of alternative tests of significance for the problem of m rankings*. Annals of Mathematical Statistics, 11(1), 86–92.
-
-7. Nemenyi, P. (1963). *Distribution-free multiple comparisons*. PhD Thesis, Princeton University.
+2. UCI Machine Learning Repository — Ionosphere Dataset. https://archive.ics.uci.edu/dataset/52/ionosphere
