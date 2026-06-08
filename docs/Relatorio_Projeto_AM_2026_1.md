@@ -4,7 +4,6 @@
 **Professor:** Francisco de A. T. de Carvalho — CIn/UFPE  
 **Dataset:** Ionosphere (UCI Machine Learning Repository) 
 **Equipe 7:** José Ronaldo Silva, Luiz Henrique Brito e Tiago Duque Marques 
-**Data de entrega:** 08/06/2026
 
 ---
 
