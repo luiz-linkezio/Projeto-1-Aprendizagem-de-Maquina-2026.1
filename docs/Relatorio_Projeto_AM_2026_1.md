@@ -168,7 +168,7 @@ A partição em $c^* = 2$ clusters foi comparada com as classes a priori. Utiliz
 Foram consideradas duas versões do Ionosphere:
 
 - **Versão 1:** variável resposta original com **2 classes** ("g" e "b")
-- **Versão 2:** variável resposta com $c^* = 2$ obtidos na Questão 1 (rótulos provenientes do KCM-K-GH)
+- **Versão 2:** variável resposta com **$c^* = 2$** obtidos na Questão 1 (rótulos provenientes do KCM-K-GH)
 
 ### 3.2 Classificadores Avaliados
 
