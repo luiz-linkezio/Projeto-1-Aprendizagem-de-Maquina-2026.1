@@ -65,7 +65,7 @@ $$K^{(s)}(x_l, x_k) = \exp\left(-\frac{1}{2}\sum_{j=1}^{p} \frac{1}{s_j^2}(x_{lj
 
 O gráfico abaixo apresenta os valores da silhueta em função de $c$:
 
-![Silhueta × Número de Clusters](download__1_.png)
+![Silhueta × Número de Clusters](Sil.png)
 
 **Tabela 1 — Índice de Silhueta por número de clusters**
 
