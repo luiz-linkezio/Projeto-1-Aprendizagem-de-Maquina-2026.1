@@ -149,7 +149,7 @@ $$\text{ARI} = \frac{\sum_{ij}\binom{n_{ij}}{2} - \left[\sum_i \binom{n_{i\bulle
 
 A partição em $c^* = 2$ clusters foi comparada com as classes a priori. Utilizou-se o algoritmo húngaro para determinar a melhor correspondência cluster → classe.
 
-**Tabela 5 — Matriz de Confusão (KCM-K-GH, c^* = 2)**
+**Tabela 5 — Matriz de Confusão (KCM-K-GH, $c^* = 2$)**
 
 |  | Cluster 1 (→"g") | Cluster 2 (→"b") | Total |
 |---|---|---|---|
