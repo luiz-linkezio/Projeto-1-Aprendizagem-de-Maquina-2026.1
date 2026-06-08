@@ -291,6 +291,12 @@ As curvas de aprendizado foram construídas variando a proporção do conjunto d
 - Curva de teste consistentemente acima dos classificadores individuais de pior desempenho
 - Redução da variância por agregação — efeito típico de métodos ensemble
 
+![Bayesiano Gaussiano](BG1.png)
+
+![Parzen Bayesiano](P1.png)
+
+![Regressão Logística](RL1.png)
+
 **Versão 2 (rótulos do clustering):**
 - Todas as curvas apresentam F-measure sistematicamente inferior à Versão 1
 - Isso é esperado: os rótulos do clustering são apenas uma aproximação não-supervisionada das classes verdadeiras, introduzindo "ruído" nos rótulos de treinamento
