@@ -301,6 +301,12 @@ As curvas de aprendizado foram construídas variando a proporção do conjunto d
 - Todas as curvas apresentam F-measure sistematicamente inferior à Versão 1
 - Isso é esperado: os rótulos do clustering são apenas uma aproximação não-supervisionada das classes verdadeiras, introduzindo "ruído" nos rótulos de treinamento
 
+![Bayesiano Gaussiano](BG2.png)
+
+![Parzen Bayesiano](P2.png)
+
+![Regressão Logística](RL2.png)
+
 ---
 
 ## 4. Análise Geral e Comentários
