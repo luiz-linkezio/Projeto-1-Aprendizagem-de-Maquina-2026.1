@@ -87,7 +87,7 @@ $$c^* = \arg\max_c \text{Sil}(c) = 2 \quad (\text{Sil} \approx 0{,}284)$$
 
 O gráfico abaixo mostra a evolução da função objetivo $J_{\text{KCM-K-GH}}$ ao longo das iterações para a melhor execução com $c^* = 2$:
 
-![Função Objetivo × Iterações](download.png)
+![Função Objetivo × Iterações](J.png)
 
 **Tabela 2 — Valores da função objetivo por iteração**
 
