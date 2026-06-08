@@ -149,7 +149,7 @@ $$\text{ARI} = \frac{\sum_{ij}\binom{n_{ij}}{2} - \left[\sum_i \binom{n_{i\bulle
 
 A partição em $c^* = 2$ clusters foi comparada com as classes a priori. Utilizou-se o algoritmo húngaro para determinar a melhor correspondência cluster → classe.
 
-**Tabela 5 — Matriz de Confusão (KCM-K-GH, c* = 2)**
+**Tabela 5 — Matriz de Confusão (KCM-K-GH, c^* = 2)**
 
 |  | Cluster 1 (→"g") | Cluster 2 (→"b") | Total |
 |---|---|---|---|
@@ -168,7 +168,7 @@ A partição em $c^* = 2$ clusters foi comparada com as classes a priori. Utiliz
 Foram consideradas duas versões do Ionosphere:
 
 - **Versão 1:** variável resposta original com **2 classes** ("g" e "b")
-- **Versão 2:** variável resposta com **$c^* = 2$** obtidos na Questão 1 (rótulos provenientes do KCM-K-GH)
+- **Versão 2:** variável resposta com $c^* = 2$ obtidos na Questão 1 (rótulos provenientes do KCM-K-GH)
 
 ### 3.2 Classificadores Avaliados
 
